@@ -1,0 +1,21 @@
+{
+  "original_filename": "Multi-file index (2 files)",
+  "file_info": [
+    {
+      "filename": "CyS03_Proposal_Document (1).pdf",
+      "chunks": 109
+    },
+    {
+      "filename": "mostafa cv.pdf",
+      "chunks": 5
+    }
+  ],
+  "file_type": "multi",
+  "chunk_size": 500,
+  "overlap": 50,
+  "num_chunks": 114,
+  "filename": "multi_file_2_files",
+  "created_at": "2025-10-11T20:21:56.045104",
+  "index_dimension": 384,
+  "index_type": "IndexFlatL2"
+}

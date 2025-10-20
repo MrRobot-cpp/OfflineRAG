@@ -1,0 +1,59 @@
+{
+  "mostafa_cv": {
+    "original_filename": "mostafa cv.pdf",
+    "file_path": "C:\\Users\\PC\\Desktop\\mostafa cv.pdf",
+    "file_type": ".pdf",
+    "chunk_size": 500,
+    "overlap": 50,
+    "num_chunks": 5,
+    "filename": "mostafa cv.pdf",
+    "created_at": "2025-10-11T20:18:10.327224",
+    "index_dimension": 384,
+    "index_type": "IndexFlatL2"
+  },
+  "multi_file_2_files": {
+    "original_filename": "Multi-file index (2 files)",
+    "file_info": [
+      {
+        "filename": "CyS03_Proposal_Document (1).pdf",
+        "chunks": 109
+      },
+      {
+        "filename": "mostafa cv.pdf",
+        "chunks": 5
+      }
+    ],
+    "file_type": "multi",
+    "chunk_size": 500,
+    "overlap": 50,
+    "num_chunks": 114,
+    "filename": "multi_file_2_files",
+    "created_at": "2025-10-11T20:21:56.045104",
+    "index_dimension": 384,
+    "index_type": "IndexFlatL2"
+  },
+  "CyS03_Proposal_Document_(1)": {
+    "original_filename": "CyS03_Proposal_Document (1).pdf",
+    "file_path": "C:\\Users\\PC\\Downloads\\CyS03_Proposal_Document (1).pdf",
+    "file_type": ".pdf",
+    "chunk_size": 500,
+    "overlap": 50,
+    "num_chunks": 109,
+    "filename": "CyS03_Proposal_Document (1).pdf",
+    "created_at": "2025-10-11T20:25:51.310900",
+    "index_dimension": 384,
+    "index_type": "IndexFlatL2"
+  },
+  "auto_repair": {
+    "original_filename": "auto repair.pdf",
+    "file_path": "C:\\Users\\PC\\Downloads\\auto repair.pdf",
+    "file_type": ".pdf",
+    "chunk_size": 500,
+    "overlap": 50,
+    "num_chunks": 176,
+    "index_type": "IndexFlatL2",
+    "filename": "auto repair.pdf",
+    "created_at": "2025-10-13T01:33:55.886887",
+    "index_dimension": 384
+  }
+}
