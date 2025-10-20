@@ -55,5 +55,17 @@
     "filename": "auto repair.pdf",
     "created_at": "2025-10-13T01:33:55.886887",
     "index_dimension": 384
+  },
+  "AIO7_PROPOSAL": {
+    "original_filename": "AIO7 PROPOSAL.pdf",
+    "file_path": "C:\\Users\\shadyyasser\\Downloads\\AIO7 PROPOSAL.pdf",
+    "file_type": ".pdf",
+    "chunk_size": 500,
+    "overlap": 50,
+    "num_chunks": 100,
+    "index_type": "IndexFlatL2",
+    "filename": "AIO7 PROPOSAL.pdf",
+    "created_at": "2025-10-20T22:10:43.201651",
+    "index_dimension": 384
   }
 }
