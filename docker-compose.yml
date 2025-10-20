@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  rag:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./faiss_index:/app/faiss_index
+      - ./cache:/app/cache
+    environment:
+      - PYTHONPATH=/app
+      - TRANSFORMERS_CACHE=/app/cache/transformers
+      - SENTENCE_TRANSFORMERS_HOME=/app/cache/sentence-transformers
+    ports:
+      - "5006:5006"  # If you add a web interface later
+    init: true
+    tty: true
+    stdin_open: true
